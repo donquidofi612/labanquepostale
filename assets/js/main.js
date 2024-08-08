@@ -34,7 +34,7 @@ const resetS = () => {
 const alert_block=()=>{
     Swal.fire(
         'COMPTE BLOQUE',
-        'Veuillez remplir les conditions pour debloquer votre compte',
+        'Votre compte est bloqué, veuillez vous acquitter des frais de déblocage.',
         'warning',
       )
 }
