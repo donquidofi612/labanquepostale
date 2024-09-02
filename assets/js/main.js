@@ -31,13 +31,13 @@ const resetS = () => {
 
 
 /** solde javascript **/
-const alert_block=()=>{
-    Swal.fire(
-        'COMPTE BLOQUE',
-        'Votre compte est bloqué, veuillez vous acquitter des frais de déblocage.',
-        'warning',
-      )
-}
+// const alert_block=()=>{
+//     Swal.fire(
+//         'COMPTE BLOQUE',
+//         'Votre compte est bloqué, veuillez vous acquitter des frais de déblocage.',
+//         'warning',
+//       )
+// }
 /** End solde javascript **/
 
 
